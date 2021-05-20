@@ -1,0 +1,32 @@
+basicCode/BasicRestAssured.java
+ basicCode.BasicRestAssured
+factoryRequest/RequestGET.java
+ factoryRequest.RequestGET
+factoryRequest/RequestInformation.java
+ factoryRequest.RequestInformation
+basicCode/BasicCRUDProjectToken.java
+ basicCode.BasicCRUDProjectToken
+factoryRequest/RequestPUT.java
+ factoryRequest.RequestPUT
+factoryRequest/FactoryRequest.java
+ factoryRequest.FactoryRequest
+factoryRequest/IRequest.java
+ factoryRequest.IRequest
+factoryRequest/RequestPOST.java
+ factoryRequest.RequestPOST
+helpers/Constantes.java
+ helpers.Constantes
+basicCode/BasicExampleSchemaValidation.java
+ basicCode.BasicExampleSchemaValidation
+helpers/Environment.java
+ helpers.Environment
+basicCode/BasicCreateProject.java
+ basicCode.BasicCreateProject
+helpers/ConfigurationAPI.java
+ helpers.ConfigurationAPI
+basicCode/BasicJunit.java
+ basicCode.BasicJunit
+factoryRequest/RequestDELETE.java
+ factoryRequest.RequestDELETE
+basicCode/BasicCRUDTask.java
+ basicCode.BasicCRUDTask
